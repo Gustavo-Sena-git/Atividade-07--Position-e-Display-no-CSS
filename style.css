@@ -29,3 +29,38 @@ align-items: center;
 
 
 }
+
+/*Parte Sena*/
+
+.container{
+    background-color: #499449;
+    padding: 10px;
+    margin: 15px 0;    
+}
+
+.caixa{
+    background-color: #1a931a;
+    padding: 8px;
+    margin: 5px;
+}
+
+
+.block-flow-root{
+    display: flow-root;
+}
+
+.inline-flow{
+    display: inline;
+}
+
+.inline-flex{
+    display: inline-flex;
+}
+
+.inline-grid{
+    display: inline-grid;
+}
+
+.inline-flow-root{
+    display: inline flow-root;
+}
