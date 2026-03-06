@@ -4,14 +4,16 @@ body{
 }
 
 header{
-
-padding-top: 5px;
-
+    padding-top: 30px;
 }
 
 .navbar {
 
+<<<<<<< HEAD
     background-color: rgba(20, 96, 184, 0.579);
+=======
+    background-color: rgba(148, 73, 73, 0.579);
+>>>>>>> f55217baa44571acf3916b8e72c96af87ac9d6b3
     display: flex;
     width: 100%;
     color: #ffffff;
@@ -24,12 +26,19 @@ padding-top: 5px;
 }
 
 h1 {
-    margin-bottom: 1px;
+    margin-bottom: 5px;
 }
 
+<<<<<<< HEAD
 h2{
 margin-bottom: 25px;
 justify-content: center;
+}
+
+=======
+h2 {
+    margin-bottom: 30px;
+>>>>>>> f55217baa44571acf3916b8e72c96af87ac9d6b3
 }
 
 
@@ -49,24 +58,28 @@ justify-content: center;
 }
 
 
-.block-flow-root {
-    display: flow-root;
+.block {
+    display: block;
 }
 
-.inline-flow {
+.flow{
+    display: flow;
+}
+
+.inline {
     display: inline;
 }
 
-.inline-flex {
-    display: inline-flex;
+.flex {
+    display: flex;
 }
 
-.inline-grid {
-    display: inline-grid;
+.grid {
+    display: grid;
 }
 
-.inline-flow-root {
-    display: inline flow-root;
+.flow-root {
+    display: flow-root;
 }
 
 
@@ -180,3 +193,12 @@ justify-content: center;
 
 
 /*PARTE MATHEUS*/
+.display{
+
+    display: table;
+
+}
+block{
+
+    
+}
