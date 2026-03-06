@@ -1,20 +1,23 @@
+body{
+    margin: 0px;
+}
 
-.navbar{
+.navbar {
 
-background-color: rgb(73, 148, 73);
-display: flex;
-width: 100%;
-color: #ffffff;
-padding: 4px;
-text-align: center;
-justify-content: space-around;
-align-items: center;
-position: fixed;
+    background-color: rgba(148, 73, 73, 0.579);
+    display: flex;
+    width: 100%;
+    color: #ffffff;
+    padding: 4px;
+    text-align: center;
+    justify-content: space-around;
+    align-items: center;
+    position: fixed;
 
 }
 
-h1{
-margin-bottom: 30px;
+h1 {
+    margin-bottom: 30px;
 }
 
 h2{
@@ -25,37 +28,148 @@ margin-bottom: 25px;
 
 /*Parte Sena*/
 
-.container{
+.container {
     background-color: #499449;
     padding: 10px;
-    margin: 15px 0;    
+    margin: 15px 0;
 }
 
-.caixa{
+.caixa {
     background-color: #1a931a;
     padding: 8px;
     margin: 5px;
 }
 
 
-.block-flow-root{
+.block-flow-root {
     display: flow-root;
 }
 
-.inline-flow{
+.inline-flow {
     display: inline;
 }
 
-.inline-flex{
+.inline-flex {
     display: inline-flex;
 }
 
-.inline-grid{
+.inline-grid {
     display: inline-grid;
 }
 
-.inline-flow-root{
+.inline-flow-root {
     display: inline flow-root;
 }
 
 
+
+
+
+
+
+
+
+#espaco{
+    margin-top: 100px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*PARTE MATHEUS*/
