@@ -68,12 +68,22 @@ margin-bottom: 25px;
 }
 
 
+/*Parte menestrina*/
+.inline-flex{
+display: inline-flex;
+}
 
+.grid{
+display: grid;
+}
 
+.inline-grid{
+    display:inline-grid;
+}
 
-
-
-
+.flow-root{
+    display: inline flow-root;
+}
 
 #espaco{
     margin-top: 100px;
