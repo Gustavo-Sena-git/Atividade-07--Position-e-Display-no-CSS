@@ -2,6 +2,10 @@ body{
     margin: 0px;
 }
 
+header{
+    padding-top: 30px;
+}
+
 .navbar {
 
     background-color: rgba(148, 73, 73, 0.579);
@@ -17,7 +21,7 @@ body{
 }
 
 h1 {
-    margin-bottom: 30px;
+    margin-bottom: 5px;
 }
 
 h2 {
@@ -46,24 +50,28 @@ h2 {
 }
 
 
-.block-flow-root {
-    display: flow-root;
+.block {
+    display: block;
 }
 
-.inline-flow {
+.flow{
+    display: flow;
+}
+
+.inline {
     display: inline;
 }
 
-.inline-flex {
-    display: inline-flex;
+.flex {
+    display: flex;
 }
 
-.inline-grid {
-    display: inline-grid;
+.grid {
+    display: grid;
 }
 
-.inline-flow-root {
-    display: inline flow-root;
+.flow-root {
+    display: flow-root;
 }
 
 
