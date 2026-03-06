@@ -1,5 +1,6 @@
 body{
     margin: 0px;
+    background-color: #8ecdeb;
 }
 
 header{
@@ -10,7 +11,7 @@ padding-top: 5px;
 
 .navbar {
 
-    background-color: rgba(5, 78, 3, 0.579);
+    background-color: rgba(20, 96, 184, 0.579);
     display: flex;
     width: 100%;
     color: #ffffff;
@@ -28,6 +29,7 @@ h1 {
 
 h2{
 margin-bottom: 25px;
+justify-content: center;
 }
 
 
@@ -35,13 +37,13 @@ margin-bottom: 25px;
 /*Parte Sena*/
 
 .container {
-    background-color: #499449;
+    background-color: rgba(20, 96, 184, 0.579);
     padding: 10px;
     margin: 15px 0;
 }
 
 .caixa {
-    background-color: #1a931a;
+    background-color: rgba(20, 96, 184, 0.579);
     padding: 8px;
     margin: 5px;
 }
@@ -68,22 +70,11 @@ margin-bottom: 25px;
 }
 
 
-/*Parte menestrina*/
-.inline-flex{
-display: inline-flex;
-}
 
-.grid{
-display: grid;
-}
 
-.inline-grid{
-    display:inline-grid;
-}
 
-.flow-root{
-    display: inline flow-root;
-}
+
+
 
 #espaco{
     margin-top: 100px;
