@@ -46,15 +46,15 @@ h2 {
 }
 
 
-.block-flow-root {
+.block {
     display: flow-root;
 }
 
-.inline-flow {
+.inline {
     display: inline;
 }
 
-.inline-flex {
+.flex {
     display: inline-flex;
 }
 
