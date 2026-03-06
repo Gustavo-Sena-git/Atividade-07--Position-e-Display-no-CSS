@@ -10,25 +10,18 @@ text-align: center;
 justify-content: space-around;
 align-items: center;
 position: fixed;
+
+}
+
+h1{
+margin-bottom: 30px;
 }
 
 h2{
 margin-bottom: 30px;
 }
 
-.subtitulo{
 
-background-color: rgb(64, 122, 64);
-display: flex;
-width: 100%;
-color: #ffffff;
-padding: 4px;
-text-align: center;
-justify-content: space-around;
-align-items: center;
-
-
-}
 
 /*Parte Sena*/
 
@@ -64,3 +57,5 @@ align-items: center;
 .inline-flow-root{
     display: inline flow-root;
 }
+
+
