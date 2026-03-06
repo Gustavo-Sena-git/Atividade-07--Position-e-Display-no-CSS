@@ -11,8 +11,10 @@ header{
 
 <<<<<<< HEAD
     background-color: rgba(20, 96, 184, 0.579);
+
+    }
 =======
-    background-color: rgba(148, 73, 73, 0.579);
+    background-color: rgba(148, 73, 73, 0.579);{
 >>>>>>> f55217baa44571acf3916b8e72c96af87ac9d6b3
     display: flex;
     width: 100%;
