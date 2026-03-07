@@ -4,7 +4,7 @@ body{
 }
 
 header{
-    padding-top: 30px;
+    padding-top: 100px;
 }
 
 .navbar {
@@ -15,8 +15,14 @@ header{
     padding: 4px;
     text-align: center;
     justify-content: space-around;
-    align-items: center;
+    align-items:center;
     position: fixed; 
+
+}
+
+.central_itens{
+    align-items: center;
+    justify-content: center;
 }
 
 h1 {
@@ -24,14 +30,20 @@ h1 {
 }
 
 h2{
-margin-bottom: 25px;
+    margin-bottom: 25px;
 }
 
+.section{
+    align-items: center;
+}
 
 .container {
     background-color: rgba(20, 96, 184, 0.579);
     padding: 10px;
     margin: 15px;
+    position: relative;
+    width: 500px;
+    align-items: center;
 }
 
 .caixa {
@@ -40,7 +52,6 @@ margin-bottom: 25px;
     margin: 5px;
     width: 60px;
 }
-
 
 .block {
     display: block;
