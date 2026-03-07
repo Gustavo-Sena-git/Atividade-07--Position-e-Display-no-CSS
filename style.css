@@ -58,7 +58,7 @@ h2{
 }
 
 .flow{
-    display: flow;
+    display: flow-root;
 }
 
 .inline {
