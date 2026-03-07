@@ -16,8 +16,7 @@ header{
     text-align: center;
     justify-content: space-around;
     align-items: center;
-    position: fixed;
-
+    position: fixed; 
 }
 
 h1 {
@@ -29,18 +28,17 @@ margin-bottom: 25px;
 }
 
 
-/*Parte Sena*/
-
 .container {
     background-color: rgba(20, 96, 184, 0.579);
     padding: 10px;
-    margin: 15px 0;
+    margin: 15px;
 }
 
 .caixa {
     background-color: rgba(20, 96, 184, 0.579);
     padding: 8px;
     margin: 5px;
+    width: 60px;
 }
 
 
