@@ -55,60 +55,62 @@ h2{
     background-color: rgba(20, 96, 184, 0.579);
     padding: 8px;
     margin: 5px;
-    width: 70%;
+    width: 80px;
     font-size: larger;
 }
 
-.block {
+.block div{
     display: block;
 }
 
-.flow{
+.flow div{
     display: flow-root;
 }
 
-.inline {
+.inline div{
     display: inline;
 }
 
-.flex {
+.flex div{
     display: flex;
 }
 
-.grid {
+.grid div{
     display: grid;
 }
 
-.flow-root {
+.flow-root div{
     display: flow-root;
 }
 
 
 
 
-.inline-flex{
+.inline-flex div{
 display: inline-flex;
 }
 
-.grid{
+.grid div{
 display: grid;
 }
 
-.inline-grid{
+.inline-grid div{
     display:inline-grid;
 }
 
-.flow-root{
+.flow-root div{
     display: inline flow-root;
+}
+
+.table div{
+    display: table;
 }
 
 
 
 
 
-
-
-#espaco{
+#espaco {
     margin-top: 100px;
 }
 
@@ -211,9 +213,3 @@ display: grid;
 
 
 
-/*PARTE MATHEUS*/
-.display{
-
-    display: table;
-
-}
