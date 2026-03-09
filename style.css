@@ -73,51 +73,51 @@ section{
     background-color: rgba(20, 96, 184, 0.579);
     padding: 8px;
     margin: 5px;
-    width: 80px;
+    width: 100px;
     font-size: larger;
 }
 
-.block div{
+.block{
     display: block;
 }
 
-.flow div{
+.flow{
     display: flow-root;
 }
 
-.inline div{
+.inline{
     display: inline;
 }
 
-.flex div{
+.flex{
     display: flex;
 }
 
-.grid div{
+.grid{
     display: grid;
 }
 
-.flow-root div{
+.flow-root{
     display: flow-root;
 }
 
-.inline-flex div{
+.inline-flex{
 display: inline-flex;
 }
 
-.grid div{
+.grid{
 display: grid;
 }
 
-.inline-grid div{
+.inline-grid{
     display:inline-grid;
 }
 
-.flow-root div{
+.flow-root{
     display: inline flow-root;
 }
 
-.table div{
+.table{
     display: table;
 }
 
