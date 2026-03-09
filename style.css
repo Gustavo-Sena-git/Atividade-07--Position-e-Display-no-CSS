@@ -20,6 +20,7 @@ header{
     justify-content: space-around;
     align-items:center;
     position: fixed; 
+    height: 120px;
 
 }
 
@@ -57,6 +58,9 @@ section{
     align-items: center;
     justify-content: center;
     margin-left: 25%;
+    border-color: aliceblue;
+    border-style:groove;
+    border-width: 15px;
 }
 
 .caixa {
@@ -127,9 +131,32 @@ display: grid;
     
 }
 
-.doguinho {
-    position: absolute;
+#guerreiro {
+    position: static;
 }
+
+#doguinho {
+    position: absolute;
+    justify-content: left;
+}
+
+#monkey {
+    position: sticky;
+    justify-content: left;
+    display: flex;
+
+}
+
+#ryu {
+    position: relative;
+    justify-content: right;
+    margin-left: 85%;
+    display: flex;
+    height: 300px;
+}
+
+
+
 
 
 
