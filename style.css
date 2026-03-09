@@ -31,24 +31,32 @@ header{
 
 h1 {
     margin-bottom: 5px;
+    justify-content: center;
 }
 
 h2{
     margin-bottom: 25px;
 }
 
-.section{
+h5{ 
+    justify-content: left;
+    margin-left: 15px;
+}
+
+section{
     align-items: center;
+    justify-content: center;
+ 
 }
 
 .container {
     background-color: rgba(20, 96, 184, 0.579);
     padding: 10px;
     margin: 15px;
-    position: relative;
-    width: 100%;
+    width: 50%;
     align-items: center;
-    
+    justify-content: center;
+    margin-left: 25%;
 }
 
 .caixa {
@@ -83,9 +91,6 @@ h2{
     display: flow-root;
 }
 
-
-
-
 .inline-flex div{
 display: inline-flex;
 }
@@ -106,16 +111,25 @@ display: grid;
     display: table;
 }
 
-
-
-
-
 #espaco {
     margin-top: 100px;
 }
 
+.rodape {
+    justify-content: space-around;
+    align-items: center;
+    margin: 18%;
+}
 
+.textorodape{
+    justify-content: center;
+    align-items: center;
+    
+}
 
+.doguinho {
+    position: absolute;
+}
 
 
 
