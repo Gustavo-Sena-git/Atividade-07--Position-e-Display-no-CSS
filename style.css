@@ -99,6 +99,8 @@ section{
 
 .grid{
     display: grid;
+    grid-template-columns: repeat(2,100px);
+    gap:25px;
 }
 
 .flow-root{
