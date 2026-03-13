@@ -117,8 +117,17 @@ display: grid;
     display: inline flow-root;
 }
 
-.table{
+.table {
     display: table;
+    border-spacing: 5px; 
+}
+
+.table-row {
+    display: table-row; 
+}
+
+.table-cell {
+    display: table-cell; 
 }
 
 #espaco {
