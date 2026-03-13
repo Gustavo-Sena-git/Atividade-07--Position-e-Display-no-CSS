@@ -103,16 +103,18 @@ section{
     gap:25px;
 }
 
+.grid_filho {
+    display: grid;
+    grid-template-columns: repeat(4,100px);
+    gap:60px;
+}
+
 .flow-root{
     display: flow-root;
 }
 
 .inline-flex{
 display: inline-flex;
-}
-
-.grid{
-display: grid;
 }
 
 .inline-grid{
