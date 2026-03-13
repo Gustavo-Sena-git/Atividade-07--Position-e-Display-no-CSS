@@ -129,6 +129,11 @@ display: grid;
 .table-cell {
     display: table-cell; 
 }
+.block_grid{
+    display: grid;
+    grid-template-columns: 1fr 1fr; 
+    gap: 5px; 
+}
 
 #espaco {
     margin-top: 100px;
